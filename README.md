@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Manon 👋
 
 <!--
 **Manon98446/Manon98446** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>Hi, I'm Manon 👋</h1>
+
+<h3>I'm currently following a <strong>Junior Developer</strong> training at <strong>BeCode</strong></h3>
